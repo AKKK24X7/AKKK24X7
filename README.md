@@ -14,15 +14,26 @@
   I’m a competent Mechanical Design Engineer with a passion for turning complex
   problems into elegant solutions—specializing in CAD, FEA, and prototype development.
 </p>
+<blockquote>
+  <div align="left">
+    <p style="margin-bottom: 1rem;">
+      <strong>👩🏻‍💻 Mechanical Design Engineer</strong>
+    </p>
+    <p style="margin-bottom: 1rem;">
+      <strong>👩🏻‍🎓 Holds MSc. in Mechanical Engineering</strong>
+    </p>
+    <p style="margin-bottom: 1rem;">
+      <strong>💭 Currently building skills in programming languages 🐍</strong>
+    </p>
+    <p style="margin-bottom: 1rem;">
+      <strong>🥅 2025 Goals: Contribute more to Open Source projects!</strong>
+    </p>
+  </div>
+</blockquote>
 
-<p align="center">
-  <strong>👩🏻‍💻 Mechanical Design Engineer</strong><br/>
-  <strong>👩🏻‍🎓 Holds MSc. in Mechanical Engineering</strong><br/>
-  <strong>💭 Currently building skills in programming languages 🐍</strong><br/>
-  <strong>🥅 2025 Goals: Contribute more to Open Source projects!</strong>
-</p>
 
-<br><br>
+<br/>
+<br/>
 
 ---
 
