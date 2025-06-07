@@ -36,10 +36,10 @@
     <div style="display: flex; gap: 1rem; justify-content: center; flex-wrap: wrap;">
       <!-- your logos… -->
       <a href="https://www.solidworks.com/" target="_blank">
-        <img src="Assets/solidworks-logo-png-transparent.png" alt="SolidWorks" width="80" height="80" />
+        <img src="Assets/solidworks-logo-png-transparent.png" alt="SolidWorks" width="100" height="80" />
       </a>
       <a href="https://www.autodesk.com/uk/products/inventor/overview" target="_blank">
-        <img src="Assets/3642342ee32b886395a935189c208c29.jpg" alt="Inventor" width="80" height="80" />
+        <img src="Assets/3642342ee32b886395a935189c208c29.jpg" alt="Inventor" width="130" height="80" />
       </a>
       <a href="https://www.autodesk.com/uk/products/fusion-360/overview" target="_blank">
         <img src="Assets/autodesk-fusion-360-logo-png_seeklogo-482400.png" alt="Fusion 360" width="80" height="80" />
@@ -59,16 +59,16 @@
     <div style="display: flex; gap: 1rem; justify-content: center; flex-wrap: wrap;">
       <!-- your logos… -->
       <a href="https://www.ansys.com/" target="_blank">
-        <img src="Assets/Ansys_Mechanical.png" alt="ANSYS" width="80" height="80" />
+        <img src="Assets/Ansys_Mechanical.png" alt="ANSYS" width="130" height="80" />
       </a>
       <a href="https://www.3ds.com/products/simulia/abaqus" target="_blank">
-        <img src="Assets/simulia-abaqus.avif" alt="Abaqus" width="80" height="80" />
+        <img src="Assets/simulia-abaqus.avif" alt="Abaqus" width="120" height="80" />
       </a>
       <a href="https://www.openfoam.com/" target="_blank">
-        <img src="Assets/images.png" alt="OpenFOAM" width="80" height="80" />
+        <img src="Assets/images.png" alt="OpenFOAM" width="120" height="80" />
       </a>
       <a href="https://uk.mathworks.com/products/simulink.html" target="_blank">
-        <img src="Assets/Simulink.png" alt="Simulink" width="80" height="80" />
+        <img src="Assets/Simulink.png" alt="Simulink" width="120" height="80" />
       </a>
     </div>
   </div>
@@ -113,4 +113,8 @@
   </a>
 </p>
 
+---
+
 <h2 align="center">💻 Check Out My Repos ⬇️</h2>
+
+---
