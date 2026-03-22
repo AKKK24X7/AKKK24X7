@@ -26,7 +26,7 @@
       <strong>💭 Currently building skills in programming languages 🐍.</strong>
     </p>
     <p style="margin-bottom: 1rem;">
-      <strong>🥅 2025 Goals: Contribute more to Open Source projects!</strong>
+      <strong>🥅 2026 Goals: Contribute more to Open Source projects!</strong>
     </p>
   </div>
 </blockquote>
